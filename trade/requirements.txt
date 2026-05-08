@@ -1,0 +1,6 @@
+backtrader==1.9.78.123
+ccxt==4.5.52
+numpy==2.2.6
+pandas==2.2.3
+python-dotenv==1.0.1
+requests==2.32.3
